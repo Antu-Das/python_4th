@@ -40,6 +40,10 @@ The source argument is required to specify the path to the input video. the abov
 
 ![](https://github.com/Antu-Das/python_4th/blob/main/download%20(5).jpeg)
 
+The project can detect fire in real-time  with high accuracy. The detection and tracking performance can be improved by fine-tuning the YOLOv8 model on a custom dataset. It can be used as a starting point for more advanced projects and can be easily integrated into a larger system for fire monitoring.
+
+## Fire detected with alarm
+
 
 
 
