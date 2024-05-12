@@ -32,6 +32,10 @@ dataset = version.download("yolov5"))
 
 ![The below chart show the loss , mAP (mean Average Precision) score for the train, test,validation set.](https://github.com/Antu-Das/python_4th/blob/main/download%20(8).png)
 
+## Confusion Matrix
+![Image Description]()
+
+
 
 
 
