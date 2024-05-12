@@ -44,6 +44,9 @@ The project can detect fire in real-time  with high accuracy. The detection and 
 
 ## Fire detected with alarm
 
+![Fire Detected](https://github.com/Antu-Das/python_4th/blob/main/aram%20otpt.jpg)
+
+
 
 
 
