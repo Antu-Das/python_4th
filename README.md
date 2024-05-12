@@ -20,13 +20,16 @@ This project utilizes YOLOv8, a state-of-the-art object detection algorithm, for
 
 ## Custom Data
 Used roboflow to annotate images. Sample notebook show how we can add the Roboflow workflow project using API to download the annotated dataset to train the model. Use the below code to download the datset:
-!(pip install roboflow
+
+[Link to Gist]((pip install roboflow
 
 from roboflow import Roboflow
 rf = Roboflow(api_key="ZxxNYh8DK5KRIhp90MPb")
 project = rf.workspace("rehman-2vlay").project("fire-detection-vdtmc")
 version = project.version(1)
 dataset = version.download("yolov5"))
+
+
 
 ## Evaluation
 
